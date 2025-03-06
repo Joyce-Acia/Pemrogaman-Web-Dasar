@@ -1,3 +1,8 @@
+# Apa Itu CSS?
+CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.
+
+[sumber]([https://www.lawencon.com/mengenal-frontend/](https://www.hostinger.com/id/tutorial/apa-itu-css))
+
 **Pengertian CSS**
 Cascading Style Sheets atau yang biasa dikenal dengan CSS merupakan bahasa pemrogaman yang digunakan untuk mengdesign tampilan web
 
