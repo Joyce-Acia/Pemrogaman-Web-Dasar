@@ -24,11 +24,11 @@ Berikut ini adalah contoh kode sederhana:
 <html>
 <head>
 </head>
-<body style="background-color:yellow;">
+<body **style="background-color:yellow;**">
 
-<h2 style="color:red;">Menggunakan CSS Dengan HTML</h2>
+<h2 **style="color:red**;">Menggunakan CSS Dengan HTML</h2>
 
-<p style="color:blue;">Ada dua teknologi utama dalam pembuatan web modern yaitu CSS dan HTML. Keduanya mempunyai peran berbeda namun tidak terpisahkan. Secara umum, ada tiga cara menggunakan CSS dengan HTML yaitu inline CSS, internal CSS dan external CSS.</p>
+<p **style="color:blue;**">Ada dua teknologi utama dalam pembuatan web modern yaitu CSS dan HTML. Keduanya mempunyai peran berbeda namun tidak terpisahkan. Secara umum, ada tiga cara menggunakan CSS dengan HTML yaitu inline CSS, internal CSS dan external CSS.</p>
 
 </body>
 </html>
