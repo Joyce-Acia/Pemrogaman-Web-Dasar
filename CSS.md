@@ -146,7 +146,8 @@ Fitur terbaru CSS 3 :
 3. Beberapa efek pada kotak, seperti kotak yang ukurannya dapat diubah-ubah, transformasi 2 dimensi dan 2 dimensi, sudut-sudut yang tumpul dan bayangan.
 
 **Contoh Perusahaan** 
-Meta
+**Google**
+Google menggunakan versi CSS3 yang dapat melakukan salah satunya animasi pada halaman website seperti jika kita mencari kata kunci tertentu pada search, maka terdapat animasi tertentu yang muncul
 
 sumber: 
 
