@@ -126,7 +126,7 @@ Tiga cara menggunakan CSS dengan HTML di atas menghasilkan tampilan laman web ya
 
 
 # Perkembangan CSS
-## CSS 1
+## CSS1
 Pada tanggal 17 Agustus 1996 World Wide Web Consortium (W3C) menetapkan CSS sebagai bahasa pemrograman standard dalam pembuatan web. Tujuannya adalah untuk mengurangi pembuatan tag-tag baru oleh Netscape dan Internet Explorer, karena kedua browser tersebut sedang bersaing mengembangkan tag sendiri untuk mengatur tampilan web.
 CSS 1 mendukung pengaturan tampilan dalam hal :
 1. Font (Jenis ketebalan).
@@ -139,7 +139,7 @@ CSS 1 mendukung pengaturan tampilan dalam hal :
 Pada tahun 1998, W3C menyempurnakan CSS tahap awal dengan menciptakan standard CSS 2 yang menjadi standard hingga saat ini. Pada level CSS 2 ini, dimasukkan semua atribut dari CSS 1 dan diperluas dengan penekanan pada International Accessibiality and Capacibilty kususnya media-specific CSS. CSS 2 dikembangkan untuk memenuhi kebutuhan terhadap format dokumen agar bisa ditampilkan di printer. 
 
 ## CSS3
-CSS 3adalah versi terbaru dari CSS yang mampu melakukan banyak hal dalam mendesain website. CSS 3 dapat melakukan animasi pada halaman website, diantaranya animasi warna dan animasi 3D. Dengan CSS 3 desaigner dimudahkan dalam hal kompatibilitas websitenya pada smartphone dengan dukungan fitur baru yakni media query. Selain itu, banyak fitur baru pada CSS 3 yaitu : Multiple background, border-radius, drop-shadow, border-image, CSS-Math dan CSS Object Model.
+CSS3 adalah versi terbaru dari CSS yang mampu melakukan banyak hal dalam mendesain website. CSS 3 dapat melakukan animasi pada halaman website, diantaranya animasi warna dan animasi 3D. Dengan CSS 3 desaigner dimudahkan dalam hal kompatibilitas websitenya pada smartphone dengan dukungan fitur baru yakni media query. Selain itu, banyak fitur baru pada CSS 3 yaitu : Multiple background, border-radius, drop-shadow, border-image, CSS-Math dan CSS Object Model.
 Fitur terbaru CSS 3 :
 1. Animasi, sehingga pembuatan animasi tidak memerlukan program sejenis Adobe Flash dan Microsoft Silverlight.
 2. Beberapa efek teks, seperti teks berbayang, kolom koran dan "Word-Wrap".
