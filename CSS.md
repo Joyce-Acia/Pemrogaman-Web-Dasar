@@ -145,7 +145,7 @@ Fitur terbaru CSS 3 :
 2. Beberapa efek teks, seperti teks berbayang, kolom koran dan "Word-Wrap".
 3. Beberapa efek pada kotak, seperti kotak yang ukurannya dapat diubah-ubah, transformasi 2 dimensi dan 2 dimensi, sudut-sudut yang tumpul dan bayangan.
 
-#**Contoh Perusahaan** 
+## Contoh Perusahaan 
 **Google**
 Google menggunakan versi CSS3 yang dapat melakukan salah satunya animasi pada halaman website seperti jika kita mencari kata kunci tertentu pada search, maka terdapat animasi tertentu yang muncul
 
