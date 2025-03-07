@@ -147,7 +147,11 @@ Fitur terbaru CSS 3 :
 
 ## Contoh Perusahaan 
 **Google**
+
 Google menggunakan versi CSS3 yang dapat melakukan salah satunya animasi pada halaman website seperti jika kita mencari kata kunci tertentu pada search, maka terdapat animasi tertentu yang muncul
+
+![Screenshot 2025-03-07 114959](https://github.com/user-attachments/assets/724303fd-89c4-4904-92f2-dc7b5049104b)
+
 
 sumber: 
 
