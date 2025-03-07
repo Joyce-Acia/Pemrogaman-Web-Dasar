@@ -148,13 +148,17 @@ Fitur terbaru CSS 3 :
 **Contoh Perusahaan** 
 Meta
 
+
+[Perkembangan css](https://widyamulya98.blogspot.com/2015/04/sejarah-dan-perkembangan-css.html)
+[W3School](https://www.w3schools.com/css/css_intro.asp)
+[cara menggunakan CSS](
+https://www.termasmedia.com/kode-web/css/871-cara-menggunakan-css-dengan-html.html)
+
 **//cantumkan sumber data
 Source**
-https://widyamulya98.blogspot.com/2015/04/sejarah-dan-perkembangan-css.html
-https://www.w3schools.com/css/css_intro.asp
-https://www.geeksforgeeks.org/types-of-css-cascading-style-sheet/
 
-https://www.termasmedia.com/kode-web/css/871-cara-menggunakan-css-dengan-html.html
+
+https://www.geeksforgeeks.org/types-of-css-cascading-style-sheet/
 
 https://www.bing.com/search?q=apa+fungsi+css&qs=n&form=QBRE&sp=-1&lq=0&pq=apa+fungsi+css&sc=12-14&sk=&cvid=7AD4231740064938B0558AE92621E7B7&ghsh=0&ghacc=0&ghpl=
 
