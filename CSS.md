@@ -96,17 +96,61 @@ Tiga cara menggunakan CSS dengan HTML di atas menghasilkan tampilan laman web ya
 ![cara-menggunakan-css-dengan-html](https://github.com/user-attachments/assets/9ce075b5-6dfd-449e-91be-22e3412a8b4d)
 
 
+# Kelebihan CSS
+## 1. Pemisahan Konten dan Presentasi:
+- Kelebihan terbesar CSS adalah pemisahan antara konten (HTML) dan presentasi (CSS). Ini memungkinkan perubahan tata letak dan gaya tanpa harus menyentuh struktur HTML.
+  
+## 2. Fleksibilitas:
+- CSS memberikan tingkat fleksibilitas yang tinggi dalam menentukan tata letak dan gaya halaman web. Desainer dapat dengan mudah mengubah tampilan situs web secara keseluruhan dengan hanya mengedit file CSS.
+  
+## 3. Efisiensi:
+- Penggunaan CSS eksternal (dalam file terpisah) memungkinkan penggunaan ulang kode gaya di berbagai halaman, menghemat waktu dan sumber daya.
+  
+## 4. Responsif:
+- CSS memungkinkan desainer untuk membuat desain responsif yang dapat menyesuaikan diri dengan berbagai ukuran layar, seperti pada perangkat seluler atau tablet.
+  
+## 5. Mendukung Animasi:
+- CSS menyediakan dukungan untuk animasi dan transisi tanpa memerlukan penggunaan JavaScript atau plugin tambahan.
+
+# Kekurangan CSS
+## 1. Kompatibilitas Browser:
+- Tidak semua fitur CSS didukung dengan konsisten di semua browser. Kadang-kadang, diperlukan hack atau penyesuaian khusus untuk memastikan tampilan yang konsisten di berbagai platform.
+## 2. Kurangnya Fitur Pengelolaan Variabel:
+- CSS memiliki dukungan terbatas untuk variabel, dan hal ini dapat membuat manajemen gaya yang kompleks kurang efisien.
+## 3. Kompleksitas Terkadang Terlalu Tinggi:
+- Beberapa desainer atau pengembang mungkin merasa bahwa CSS, terutama dalam proyek yang besar, dapat menjadi kompleks dan sulit untuk dipelajari dan dikelola.
+## 4. Keterbatasan Pengelolaan Dependensi:
+- Pada proyek yang besar, manajemen dependensi dan warisan kode dapat menjadi tantangan, terutama ketika melakukan perubahan besar dalam desain.
+## 5. Kurangnya Penanganan Logika:
+- CSS dirancang untuk mengelola tata letak dan gaya visual, tetapi tidak dirancang untuk menangani logika bisnis. Ini memerlukan penggunaan JavaScript atau bahasa pemrograman lainnya untuk mengatasi masalah ini.
 
 
-**Kelebihan Kekurangan**
+# Perkembangan CSS
+## CSS 1
+Pada tanggal 17 Agustus 1996 World Wide Web Consortium (W3C) menetapkan CSS sebagai bahasa pemrograman standard dalam pembuatan web. Tujuannya adalah untuk mengurangi pembuatan tag-tag baru oleh Netscape dan Internet Explorer, karena kedua browser tersebut sedang bersaing mengembangkan tag sendiri untuk mengatur tampilan web.
+CSS 1 mendukung pengaturan tampilan dalam hal :
+1. Font (Jenis ketebalan).
+2. Warna, teks, background dan elemen lainnya.
+3. Text attributes, misalnya spasi antar baris, kata dan  huruf.
+4. Posisi teks, gambar, table dan elemen lainnya.
+5. Margin, border dan padiing.
 
-**Perkembangan CSS hingga 2025 (summary)**
+## CSS2
+Pada tahun 1998, W3C menyempurnakan CSS tahap awal dengan menciptakan standard CSS 2 yang menjadi standard hingga saat ini. Pada level CSS 2 ini, dimasukkan semua atribut dari CSS 1 dan diperluas dengan penekanan pada International Accessibiality and Capacibilty kususnya media-specific CSS. CSS 2 dikembangkan untuk memenuhi kebutuhan terhadap format dokumen agar bisa ditampilkan di printer. 
+
+## CSS3
+CSS 3adalah versi terbaru dari CSS yang mampu melakukan banyak hal dalam mendesain website. CSS 3 dapat melakukan animasi pada halaman website, diantaranya animasi warna dan animasi 3D. Dengan CSS 3 desaigner dimudahkan dalam hal kompatibilitas websitenya pada smartphone dengan dukungan fitur baru yakni media query. Selain itu, banyak fitur baru pada CSS 3 yaitu : Multiple background, border-radius, drop-shadow, border-image, CSS-Math dan CSS Object Model.
+Fitur terbaru CSS 3 :
+1. Animasi, sehingga pembuatan animasi tidak memerlukan program sejenis Adobe Flash dan Microsoft Silverlight.
+2. Beberapa efek teks, seperti teks berbayang, kolom koran dan "Word-Wrap".
+3. Beberapa efek pada kotak, seperti kotak yang ukurannya dapat diubah-ubah, transformasi 2 dimensi dan 2 dimensi, sudut-sudut yang tumpul dan bayangan.
 
 **Contoh Perusahaan** 
 Meta
 
 **//cantumkan sumber data
 Source**
+https://widyamulya98.blogspot.com/2015/04/sejarah-dan-perkembangan-css.html
 https://www.w3schools.com/css/css_intro.asp
 https://www.geeksforgeeks.org/types-of-css-cascading-style-sheet/
 
