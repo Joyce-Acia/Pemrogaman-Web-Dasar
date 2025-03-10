@@ -154,7 +154,7 @@ Contoh kata kunci: squid game
 ![Screenshot 2025-03-07 114959](https://github.com/user-attachments/assets/724303fd-89c4-4904-92f2-dc7b5049104b)
 
 
-sumber: 
+**Sumber:**
 
 [Perkembangan css](https://widyamulya98.blogspot.com/2015/04/sejarah-dan-perkembangan-css.html)
 
@@ -168,4 +168,12 @@ sumber:
 )
 
 [Apa itu css](https://www.hostinger.com/id/tutorial/apa-itu-css)
+
+### Members
+| NIM | NAMA |
+|:----:|:------:|
+| 24200001  | Dera Wisier  |
+| 24200012   | Eren Cahya Putrida  |
+| 24200023   | Joyce Zaneta  |
+
 
