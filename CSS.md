@@ -152,6 +152,7 @@ Google menggunakan versi CSS3 yang dapat melakukan salah satunya animasi pada ha
 
 Contoh kata kunci: squid game
 ![Screenshot 2025-03-07 114959](https://github.com/user-attachments/assets/724303fd-89c4-4904-92f2-dc7b5049104b)
+![Tech Stack CSS Front End](https://github.com/user-attachments/assets/981f6d26-7c67-49a2-beb8-d6909fd97188)
 
 
 **Sumber:**
